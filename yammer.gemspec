@@ -30,3 +30,4 @@ Gem::Specification.new do |gem|
   gem.test_files = `git ls-files -- {test,spec,features}/*`.split("\n")
   gem.version = Yammer::VERSION.dup
 end
+# gemspace
