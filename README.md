@@ -70,10 +70,3 @@ Submitting a Pull Request
 5. Run <tt>bundle exec rake doc:yard</tt>. If your changes are not 100% documented, go back to step 4.
 6. Commit and push your changes.
 7. Submit a pull request. Please do not include changes to the gemspec, version, or history file. (If you want to create your own version for some reason, please do so in a separate commit.)
-
-
-
-Copyright
----------
-Copyright (c) 2011, Bruno Mattarollo <bruno@road.ly>
-See [LICENSE](https://github.com/roadly/yammer/blob/master/LICENSE.md) for details.
